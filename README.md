@@ -5,7 +5,8 @@ Implemented with python version 3.4 (untested with other versions).
 
 ## Example Usage
 
-```import lazy
+```
+import lazy
 
 class Person(object):
   def __init__(self, name):
